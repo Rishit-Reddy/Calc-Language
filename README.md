@@ -1,6 +1,4 @@
-Sure! Here's a very simple `README.md` file for your project:
 
-```markdown
 # Calc Language
 
 A simple arithmetic expression evaluator written in Python.
@@ -20,7 +18,7 @@ A simple arithmetic expression evaluator written in Python.
 Run the `main.py` script with an arithmetic expression as an argument:
 ```bash
 python main.py "3 + 5 * (10 - 4)"
-```
+
 
 ## Files
 
