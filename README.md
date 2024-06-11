@@ -7,7 +7,7 @@ A simple arithmetic expression evaluator written in Python.
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/Rishit-Reddy/CalcLang.git)
     cd calc-lang
     ```
 
