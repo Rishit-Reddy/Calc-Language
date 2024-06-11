@@ -86,6 +86,7 @@ def tokenize(text):
     tokens.append(token)  # Add the EOF token
     return tokens
 
+#test
 if __name__ == "__main__":
     text = "3+5"
     tokens = tokenize(text)
