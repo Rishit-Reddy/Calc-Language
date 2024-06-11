@@ -7,8 +7,8 @@ A simple arithmetic expression evaluator written in Python.
 
 1. Clone the repository:
     ```bash
-    git clone [<repository_url>](https://github.com/Rishit-Reddy/CalcLang.git)
-    cd calc-lang
+    git clone https://github.com/Rishit-Reddy/CalcLang.git
+    cd CalcLang
     ```
 
 2. Make sure you have Python 3 installed on your system.
