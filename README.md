@@ -18,7 +18,7 @@ A simple arithmetic expression evaluator written in Python.
 Run the `main.py` script with an arithmetic expression as an argument:
 ```bash
 python main.py "3 + 5 * (10 - 4)"
-
+```
 
 ## Files
 
@@ -27,13 +27,4 @@ python main.py "3 + 5 * (10 - 4)"
 - `interpreter.py`: Contains the interpreter for evaluating the AST.
 - `main.py`: Entry point for running the interpreter from the command line.
 
-## Example
 
-```bash
-python main.py "3 + 5 * (2 - 8)"
-```
-
-This will output the result of the expression.
-```
-
-This simple `README.md` provides basic instructions on how to install, use, and understand the project structure. You can replace `<repository_url>` with the actual URL of your GitHub repository.
