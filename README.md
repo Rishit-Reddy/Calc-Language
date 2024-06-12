@@ -1,7 +1,7 @@
 
 # Calc Language
 
-A simple arithmetic expression evaluator written in Python.
+A simple arithmetic expression evaluator, written in Python, developed to understand the concepts like lexical analysis, parsing, and interpretation.
 
 ## Installation
 
